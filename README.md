@@ -35,8 +35,9 @@ To reproduce the analysis:
 - The cartograms are designed to highlight relative global disparities, not to serve as exact spatial measurements.
 
 ## Contributors
-- Hanmin Gu (code, data processing, cartogram generation)
+- Hanmin Gu (code development, data processing, cartogram generation)
 - Yuki Iwai (conceptualization, interpretation, manuscript co-author)
 
 ## License
+
 This code is released under the **MIT License**.
